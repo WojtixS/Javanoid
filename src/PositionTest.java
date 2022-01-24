@@ -3,7 +3,7 @@ import org.junit.Test;
 import java.awt.*;
 
 import static org.junit.Assert.*;
-
+/*
 class PositionTest {
 
 
@@ -14,9 +14,10 @@ class PositionTest {
 
 
     }
+    */
+
 /*
     @org.junit.Test
     public void setBoundsSize() {
         assertNull(1);
     } */
-}

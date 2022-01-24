@@ -8,7 +8,7 @@ class PositionTest {
 
     @org.junit.Test
     public void setPosition() {
-        assertTrue(Rectangle);
+
 
     }
 }

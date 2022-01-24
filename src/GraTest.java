@@ -35,7 +35,7 @@ public class GraTest {
 
     @Test
     public void keyPressed() {
-        assertTrue(right);
+
     }
 
     @Test
